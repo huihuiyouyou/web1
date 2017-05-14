@@ -1,0 +1,16 @@
+.cc{
+	background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+}
+#bb{
+	background-image: url(../image/header.png);	
+}
+.ee{
+    list-style-image:url(../lvbiaoti.png);
+}
+.aa{
+	list-style-image: url(../baibiaoti.png);
+}
+ul{
+	list-style-type: none;
+}
