@@ -1,0 +1,46 @@
+body{
+	background-image: url(../images/bg.gif);
+	background-repeat: repeat-x;
+}
+.header{
+	width: 1005px;
+	height:600px;
+	
+}
+.nav{
+	height: 35px;
+	width: 1005px;
+}
+.nav ul{
+	list-style: none;
+}
+.nav ul li{
+	float:left;
+	margin-left: 70px;
+
+}
+.nav ul li a{
+	color: #ffffff;
+}
+.logo{
+	width: 1000px;
+	height: 100px;
+	
+}
+
+.logo input{
+	float: right;
+	margin-top: 5px;
+	height:34px;
+	width: 150px;
+}
+.logo input[type='buttom']{
+	
+	background-image: url(../images/ss.gif);
+	height:34px;
+	width: 43px;
+}
+
+.banner img{
+	width:
+}
