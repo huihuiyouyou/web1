@@ -1,0 +1,23 @@
+.aa{
+   opacity:0.4;
+   width:300px;
+   float:left;
+   border:1px solid black;
+   height:240px;
+}
+.aa:hover{
+	opacity:1.0;
+}
+.bb{
+	margin:auto;
+	text-align: center;
+}
+img{
+	height:160px;
+	width:200px;
+	
+}
+.cc{
+	width:200px;
+	margin:auto;
+}
